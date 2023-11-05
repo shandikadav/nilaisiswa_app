@@ -1,0 +1,11 @@
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\bin\Debug\Aplikasi Nilai Siswa.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\bin\Debug\Aplikasi Nilai Siswa.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\bin\Debug\Aplikasi Nilai Siswa.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\bin\Debug\Aplikasi Nilai Siswa.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi Nilai Siswa.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi_Nilai_Siswa.loginform.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi_Nilai_Siswa.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi Nilai Siswa.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi Nilai Siswa.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi Nilai Siswa.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi Nilai Siswa\Aplikasi Nilai Siswa\obj\Debug\Aplikasi Nilai Siswa.pdb
